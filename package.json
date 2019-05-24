@@ -1,0 +1,16 @@
+{
+  "name": "Embedding_Documents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "embedding.js",
+  "scripts": {
+    "start": "node embedding.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "mongoose": "^5.5.11"
+  }
+}
